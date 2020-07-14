@@ -1,7 +1,12 @@
-# memmap
+# Credits
 - neox
 - wdk
 - kgb
+
+# Read before making an "issue"
+You need a little bit of knowledge to implement this in your program's source code
+It's not even that difficult, that's why we do not reply to issues usually
+Maybe a GitHub member will answer for you
 
 # Standard Usage
 	INT argc;
