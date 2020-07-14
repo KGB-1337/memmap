@@ -1,5 +1,5 @@
 # Credits
-- neox
+- N1gger
 - wdk
 - kgb
 
